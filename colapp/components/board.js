@@ -34,10 +34,10 @@ function Board({ setModal, setDetails }) {
         <h1 className="text-xl font-bold sm:text-2xl">Proyecto de Desarrollo</h1>
         <span className="w-1 h-10 border-r-2"></span>
         <div className="flex">
-          <Image className="self-center -mr-2 rounded-full" src="/photo-1.png" width="36" height="36" alt=""/>
-          <Image className="self-center -mr-2 rounded-full" src="/photo-2.png" width="36" height="36" alt=""/>
-          <Image className="self-center -mr-2 rounded-full" src="/photo-3.png" width="36" height="36" alt=""/>
-          <Image className="self-center -mr-2 rounded-full" src="/photo-4.png" width="36" height="36" alt=""/>
+          <Image className="self-center -mr-2 rounded-full" src="https://api.multiavatar.com/Binx Bond.svg" width="36" height="36" alt=""/>
+          <Image className="self-center -mr-2 rounded-full" src="https://api.multiavatar.com/Binx ana.svg" width="36" height="36" alt=""/>
+          <Image className="self-center -mr-2 rounded-full" src="https://api.multiavatar.com/Binx truea.svg" width="36" height="36" alt=""/>
+          <Image className="self-center -mr-2 rounded-full" src="https://api.multiavatar.com/Binx carl.svg" width="36" height="36" alt=""/>
         </div>
         <span className="w-1 h-10 border-r-2"></span>
         <button className="p-2 transition-transform bg-slate-500 rounded cursor-pointer active:scale-90 text-white">Invitar</button>

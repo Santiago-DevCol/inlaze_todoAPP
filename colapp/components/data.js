@@ -5,7 +5,7 @@ export const todoList = [
     user: {
       user_id: 7,
       name: "Joel",
-      avatar: "/photo-3.png"
+      avatar: "https://api.multiavatar.com/Binx truea.svg"
     },
     comments: [
       {
@@ -14,7 +14,7 @@ export const todoList = [
         user: {
           user_id: 1,
           name: "Leonidas",
-          avatar: "/photo-1.png",
+          avatar: "https://api.multiavatar.com/Binx Bond.svg",
         }
       },
       {
@@ -23,7 +23,7 @@ export const todoList = [
         user: {
           user_id: 1,
           name: "Leonidas",
-          avatar: "/photo-1.png",
+          avatar: "https://api.multiavatar.com/Binx carl.svg",
         },
       }
     ],
@@ -34,7 +34,7 @@ export const todoList = [
     user: {
       user_id: 4,
       name: "Miguel",
-      avatar: "/photo-2.png"
+      avatar: "https://api.multiavatar.com/Binx ana.svg"
     },
   },
   {
@@ -43,7 +43,7 @@ export const todoList = [
     user: {
       user_id: 1,
       name: "Leonidas",
-      avatar: "/photo-1.png"
+      avatar: "https://api.multiavatar.com/Binx Bond.svg"
     },
     comments: [
       {
@@ -52,7 +52,7 @@ export const todoList = [
         user: {
           user_id: 7,
           name: "Joel",
-          avatar: "/photo-3.png",
+          avatar: "https://api.multiavatar.com/Binx Bond.svg",
         }
       },
     ],
@@ -66,7 +66,7 @@ export const inProgressList = [
     user: {
       user_id: 4,
       name: "Miguel",
-      avatar: "/photo-2.png"
+      avatar: "https://api.multiavatar.com/Binx Bond.svg"
     },
   },
   {
@@ -75,7 +75,7 @@ export const inProgressList = [
     user: {
       user_id: 7,
       name: "Joel",
-      avatar: "/photo-3.png"
+      avatar: "https://api.multiavatar.com/Binx Bond.svg"
     },
   },
 ]
@@ -87,7 +87,7 @@ export const doneList = [
     user: {
       user_id: 1,
       name: "Leonidas",
-      avatar: "/photo-1.png"
+      avatar: "https://api.multiavatar.com/Binx Bond.svg"
     },
   },
   {
@@ -96,7 +96,7 @@ export const doneList = [
     user: {
       user_id: 1,
       name: "Leonidas",
-      avatar: "/photo-1.png"
+      avatar: "https://api.multiavatar.com/Binx Bond.svg"
     },
     comments: [
       {
@@ -105,7 +105,7 @@ export const doneList = [
         user: {
           user_id: 7,
           name: "Joel",
-          avatar: "/photo-3.png",
+          avatar: "https://api.multiavatar.com/Binx Bond.svg",
         }
       },
     ]
@@ -116,7 +116,7 @@ export const doneList = [
     user: {
       user_id: 7,
       name: "Joel",
-      avatar: "/photo-3.png"
+      avatar: "https://api.multiavatar.com/Binx Bond.svg"
     },
   },
 ]
